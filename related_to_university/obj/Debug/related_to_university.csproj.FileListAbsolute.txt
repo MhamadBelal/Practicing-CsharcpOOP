@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\bin\Debug\related_to_university.exe.config
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\bin\Debug\related_to_university.exe
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\bin\Debug\related_to_university.pdb
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\obj\Debug\related_to_university.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\obj\Debug\related_to_university.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\obj\Debug\related_to_university.exe
+C:\Users\Lenovo\source\repos\related_to_university\related_to_university\obj\Debug\related_to_university.pdb
